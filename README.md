@@ -1,5 +1,6 @@
-# SocialMedia_Relationships_Analysis
+# Social NetWrok Analysis
 Backend implementation of social relations and clusters with basic visualiser
+
 # LanceWilliamsHAC analysis of clusters of users' social relationship
 
 the sample visualization as shown below
